@@ -14,5 +14,9 @@ cmp-studio projcet 에서 다운로드 및 설치
 
 https://github.com/tmax-cloud/cmp-studio/releases
 
+sample tf file 참고하여 studio로 tf file 생성
 
-시연 시나리오
+
+다른 예시 참고
+https://github.com/diodonfrost/terraform-aws-examples
+
