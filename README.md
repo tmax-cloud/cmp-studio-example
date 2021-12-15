@@ -13,3 +13,6 @@ cmp-studo 설치
 cmp-studio projcet 에서 다운로드 및 설치
 
 https://github.com/tmax-cloud/cmp-studio/releases
+
+
+시연 시나리오
