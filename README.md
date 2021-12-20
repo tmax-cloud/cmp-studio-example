@@ -6,6 +6,7 @@ examples 가 있는 project
 준비사항
 1. terraform 설치
 terraform.exe 다운로드 및 path 설정
+https://www.terraform.io/downloads
 bat 파일 실행하면 임시로 path 추가 c:\terraform
 
 
